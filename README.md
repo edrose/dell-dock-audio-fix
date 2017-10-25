@@ -2,4 +2,9 @@
 
 Arch linux package that installs config files to allow the audio on the docks to function properly. 
 
-As some of the files included are from Pulseaudio this is distributed under a GNU Lesser licence.
+Only two files are placed on the system, these can probably be done on other distros however there is no guarantee that the folders are the same.
+
+    91-pulseaudio.rules 	--> /usr/share/udev/rules.d/
+    dell-dock-wd15-usb-audio 	--> /usr/lib/pulseaudio/alsa-mixer/profile-sets/
+
+As some of the files included are from Pulseaudio [original source](https://github.com/pulseaudio/pulseaudio) this is distributed under a GNU Lesser licence.
