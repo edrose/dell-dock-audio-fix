@@ -9,4 +9,4 @@ Only two files are placed on the system, these can probably be done on other dis
     
     dell-dock-wd15-usb-audio	--> /usr/lib/pulseaudio/alsa-mixer/profile-sets/
 
-As some of the files included are from Pulseaudio [original source](https://github.com/pulseaudio/pulseaudio) this is distributed under a GNU Lesser licence.
+As some of the files included are from Pulseaudio ([original source](https://github.com/pulseaudio/pulseaudio)) this is distributed under a GNU Lesser licence.
