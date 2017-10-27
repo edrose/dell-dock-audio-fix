@@ -7,7 +7,7 @@ arch=('any')
 url=""
 license=('unknown')
 depends=('pulseaudio')
-install=
+install=dell-dock-audio-fux.install
 changelog=
 source=("91-pulseaudio.rules"
 	"dell-dock-wd15-usb-audio.conf")
