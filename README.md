@@ -11,4 +11,4 @@ Only two files are placed on the system, these can probably be done on other dis
 
 After installation the contents of ~/.config/pulse or ~/.pulse may need to be removed.
 
-As some of the files included are from Pulseaudio ([original source](https://github.com/pulseaudio/pulseaudio)) this is distributed under a GNU Lesser licence.
+As some of the files included are from Pulseaudio ([pulseaudio/pulseaudio@60c0edd](https://github.com/pulseaudio/pulseaudio/commit/60c0edd5286dbb731c671ad3e6886c1e3e1eb067)) this is distributed under a GNU Lesser licence.
