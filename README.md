@@ -1,4 +1,4 @@
-# Edit: this has now been fixed in PulseAudio but I'll keep the repo here for reference. If you are searching for a current Dell Dock Pulseaudio issue then this probably won't fix it. Take a look at [this comment thread](https://github.com/edrose/dell-dock-audio-fix/issues/2) for a link to a current bug fix.
+### Edit: this has now been fixed in PulseAudio but I'll keep the repo here for reference. If you are searching for a current Dell Dock Pulseaudio issue then this probably won't fix it. Take a look at [this comment thread](https://github.com/edrose/dell-dock-audio-fix/issues/2) for a link to a current bug fix.
 
 # Pulseaudio Fix for Dell USB C and Thunderbolt 3 Docks
 
